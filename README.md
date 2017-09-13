@@ -4,9 +4,11 @@ Script to connect with Google Vision Api and the date format to can save in a mo
 ## Getting Started
 
 Please follow the next instructions:
+```
 1- Auth with Google Cloud
 2- Install the credentials in your server or computer
 3- Run the script
+```
 
 ### Prerequisites
 
