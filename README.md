@@ -11,11 +11,10 @@ Please follow the next instructions:
 ### Prerequisites
 
 What things you need to install:
-1- Python 3+
-2- Pillow
 
 ```
-Give examples
+1- Python 3+
+2- Pillow
 ```
 
 ### Installing
